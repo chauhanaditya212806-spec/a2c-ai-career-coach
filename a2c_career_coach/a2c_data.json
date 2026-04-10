@@ -1,0 +1,54 @@
+{
+  "student": {
+    "name": "Mihir Sharma",
+    "college": "Chandigarh University",
+    "branch": "B.Tech CSE",
+    "cgpa": 7.8
+  },
+  "readiness": 68,
+  "resume_text": "Mihir Sharma\nB.Tech CSE | Chandigarh University\nSkills: Python, Java, DSA, SQL, HTML/CSS",
+  "chat_history": [],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Solve 5 LeetCode Medium problems",
+      "done": false,
+      "week": "Week 1"
+    },
+    {
+      "id": 2,
+      "title": "Revise DBMS Normalization",
+      "done": false,
+      "week": "Week 1"
+    }
+  ],
+  "roadmap": [
+    {
+      "week": "Week 1",
+      "tasks": [
+        "DSA - Arrays & Strings",
+        "Aptitude - Time & Work"
+      ]
+    },
+    {
+      "week": "Week 2",
+      "tasks": [
+        "OOP Concepts",
+        "Mock Interview - Behavioral"
+      ]
+    }
+  ],
+  "mood_logs": [
+    {
+      "date": "2026-04-10",
+      "mood": "\ud83d\ude1f",
+      "stress": 7,
+      "performance_impact": 58
+    }
+  ],
+  "mock_scores": {
+    "behavioral": 82,
+    "dsa": 65,
+    "system_design": 71
+  }
+}
